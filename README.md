@@ -1,3 +1,3 @@
 # AuthApi
 
-Uses Jwt
+Uses JWT Authentication and Authorization
