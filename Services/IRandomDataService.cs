@@ -2,7 +2,7 @@
 
 namespace AuthApi.Services
 {
-    public interface IRandomData
+    public interface IRandomDataService
     {
         public RandomData Create(RandomData randomData);
         public RandomData Update(RandomData randomData);

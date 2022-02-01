@@ -3,7 +3,7 @@ using AuthApi.Repositories;
 
 namespace AuthApi.Services
 {
-    public class RandomDataService : IRandomData
+    public class RandomDataService : IRandomDataService
     {
         public RandomData Create(RandomData randomData)
         {
